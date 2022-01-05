@@ -1,6 +1,9 @@
 
+![2795101-455135492](https://user-images.githubusercontent.com/47127790/148238809-fae4be24-038c-4e84-aa4b-74f7f5420816.jpg)
 
-SAUDI TELECOM COMPANY(STC) IN STOCK MARKET BY USING TIME SERIES
+                                       
+                                       
+                                       SAUDI TELECOM COMPANY(STC) IN STOCK MARKET BY USING TIME SERIES
 
 # Abstract:
 
@@ -13,7 +16,7 @@ Arabia’s dedicated stock exchange and the largest stock exchange in the Middle
 The objective is to study the behavior of STC company in the saudi stock market, And predict the price for a company in the next two years.
 All data used in this project from https://www.saudiexchange.sa/ by using web scraping.
 
-#Data
+# Data
 
 The dataset’s purpose is to display a list of Tadāwul Platform from Janurary 2012 till November 2021 (up to date) , 
 measured by several Measurement such as Date ,close ,open ,Company Name,Value Traded (SAR) and so much more . 
